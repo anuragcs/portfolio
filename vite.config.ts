@@ -15,9 +15,10 @@ export default defineConfig(({ command, mode }) => {
   return {
     define: envDefine,
     server: {
-      host: "::",
-      port: 8080,
-    },
+  host: "::",
+  port: 8080,
+  allowedHosts: ["portfolio-2jyi.onrender.com"],
+},
     resolve: {
       alias: {
         "@": `${process.cwd()}/src`,
