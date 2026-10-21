@@ -72,22 +72,23 @@
     "vite-tsconfig-paths": "^6.0.2",
     "zod": "^3.24.2"
   },
-  "devDependencies": {
-    "@eslint/js": "^9.32.0",
-    "@lovable.dev/vite-tanstack-config": "^1.4.0",
-    "@types/node": "^22.16.5",
-    "@types/react": "^19.2.0",
-    "@types/react-dom": "^19.2.0",
-    "@vitejs/plugin-react": "^5.0.4",
-    "eslint": "^9.32.0",
-    "eslint-config-prettier": "^10.1.1",
-    "eslint-plugin-prettier": "^5.2.6",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.20",
-    "globals": "^15.15.0",
-    "prettier": "^3.7.3",
-    "typescript": "^5.8.3",
-    "typescript-eslint": "^8.56.1",
-    "vite": "^7.3.1"
-  }
+ "devDependencies": {
+  "nitro": "^2.12.9",
+  "@eslint/js": "^9.32.0",
+  "@lovable.dev/vite-tanstack-config": "^1.4.0",
+  "@types/node": "^22.16.5",
+  "@types/react": "^19.2.0",
+  "@types/react-dom": "^19.2.0",
+  "@vitejs/plugin-react": "^5.0.4",
+  "eslint": "^9.32.0",
+  "eslint-config-prettier": "^10.1.1",
+  "eslint-plugin-prettier": "^5.2.6",
+  "eslint-plugin-react-hooks": "^5.2.0",
+  "eslint-plugin-react-refresh": "^0.4.20",
+  "globals": "^15.15.0",
+  "prettier": "^3.7.3",
+  "typescript": "^5.8.3",
+  "typescript-eslint": "^8.56.1",
+  "vite": "^7.3.1"
+}
 }
